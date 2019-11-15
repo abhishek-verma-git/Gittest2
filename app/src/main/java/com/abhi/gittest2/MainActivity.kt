@@ -18,5 +18,9 @@ class MainActivity : AppCompatActivity() {
         txv1.text = "Gitest1"
         txv1.text = "Gitest1"
 
+        txv2.text="dfdfdf"
+
+
+
     }
 }
